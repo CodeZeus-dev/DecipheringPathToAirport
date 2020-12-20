@@ -36,7 +36,7 @@ In this project, based on the day-3 requirements of the Advent of Code (2020), t
 .....#.........#.#..........#..<br>
 
 </div>
-(first 30 lines of the map...)
+(first 30 lines of the map...)<br>
 
 In order to run the script, clone this repo and then,
 
