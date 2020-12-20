@@ -1,6 +1,7 @@
 # Deciphering the path to the airport
 
 In this project, based on the day-3 requirements of the Advent of Code (2020), the goal is to determine the number of trees encountered by following certain predefined movement patterns throughout a given map. A sample of the input used as the argument of the treesEncountered function, is the following one, 
+<div style="letter-spacing:0.1em">
 
 ...#.....#.......##......#.....<br>
 ...#..................#........<br>
@@ -34,6 +35,7 @@ In this project, based on the day-3 requirements of the Advent of Code (2020), t
 .........#..#..#.........#.....<br>
 .....#.........#.#..........#..<br>
 
+</div>
 (first 30 lines of the map...)
 
 In order to run the script, clone this repo and then,
