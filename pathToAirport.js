@@ -1,4 +1,4 @@
-function treesEncountered(latitude, longitude) {
+function treesEncountered(latitude = 3, longitude = 1) {
     let fs = require('fs');
     let mapPath = fs.readFileSync('./givenMap.txt').toString().split('\n');
 
