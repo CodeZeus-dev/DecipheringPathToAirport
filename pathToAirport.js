@@ -9,7 +9,7 @@ function treesEncountered() {
     let movingPattern = {
         dx: 3,
         dy: 1
-    }
+    } // the moving pattern can be changed to whatever value the user desires
 
     let currentPos = {
         x: 0,
